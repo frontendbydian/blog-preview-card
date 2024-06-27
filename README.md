@@ -35,7 +35,7 @@ Thisis the result of the challenge
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/blog-preview-card-using-react-js-and-tailwind-css-D8XwKaKJun)
 - Live Site URL: [Blog Preview Card](https://blog-card-dianprasetyo.netlify.app/)
 
 ## My process

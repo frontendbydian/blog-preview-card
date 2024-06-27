@@ -17,9 +17,9 @@ function App() {
             <p className="text-xs font-medium md:text-sm text-custom-black">
               Published 21 Dec 2023
             </p>
-            <h1 className="text-xl font-extrabold md:text-2xl text-custom-black hover:cursor-pointer hover:text-custom-yelow">
+            <h2 className="text-xl font-extrabold md:text-2xl text-custom-black hover:cursor-pointer hover:text-custom-yelow">
               HTML & CSS foundations
-            </h1>
+            </h2>
             <p className="text-sm font-medium md:text-base text-custom-grey">
               These languages are the backbone of every website, defining
               structure, content, and presentation.
