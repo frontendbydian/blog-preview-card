@@ -18,6 +18,10 @@ export default {
       fontFamily: {
         figtree: ["Figtree", "san-serif"],
       },
+      fontWeight: {
+        medium: 400,
+        extrabold: 800,
+      },
     },
   },
   plugins: [],
